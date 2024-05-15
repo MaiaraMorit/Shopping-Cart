@@ -1,6 +1,6 @@
 # Shoppig Cart
 
-![Foto do projeto](.projeto.png)
+![Foto do projeto](./projeto.png)
 
 ## Descrição do Projeto
 
